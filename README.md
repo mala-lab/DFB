@@ -1,7 +1,7 @@
 # Improving Out-of-Distribution Detection with Disentangled Foreground and Background Features
 By Choubo Ding, Guansong Pang
 
-Official PyTorch implementation of the paper “Improving Out-of-Distribution Detection with Disentangled Foreground and Background Features”
+Official PyTorch implementation of the paper “Improving Out-of-Distribution Detection with Disentangled Foreground and Background Features”. The paper is available at [arXiv](https://arxiv.org/abs/2303.08727).
 
 Code is modified from [Google BiT](https://github.com/google-research/big_transfer) and
 [MOS](https://github.com/deeplearning-wisc/large_scale_ood).
